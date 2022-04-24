@@ -1,0 +1,16 @@
+basic codes:
+
+ls     Directory listing(list files)
+ls -l  formatted listing
+ls -la formatted listing including hidden files
+cd dir change directory to dir
+cd_ change to parent directory
+cd_/dir change to dir in parent directory
+cd change to home directory
+pwd show current directory
+mkdir dir create a directory  dir
+rm file  delete file
+rm-f dir foce removal file
+rd-r dir delete directory dir
+rm-rf dir  remove directory 
+..............
