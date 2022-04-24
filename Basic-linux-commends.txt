@@ -14,3 +14,9 @@ rm-f dir foce removal file
 rd-r dir delete directory dir
 rm-rf dir  remove directory 
 ..............
+
+
+ping host ping host
+whois domain get whois for domain
+dig domain get DNS for domain
+dig-x host reserve lookup hostwget file download file
